@@ -1,6 +1,6 @@
 # jpmcHomework
  
-Things I know I should do that I didn't:
+Things I would do if this was ever to go live:
   1) Interfaces for the services
   2) Remove old imports and test endpoints
   3) Figure out how to write meaningful tests for HttpService layer
