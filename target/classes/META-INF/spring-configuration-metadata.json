@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "data",
+      "type": "com.jpmc.config.Config",
+      "sourceType": "com.jpmc.config.Config"
+    }
+  ],
+  "properties": [
+    {
+      "name": "data.provider-map",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.jpmc.config.Config"
+    }
+  ],
+  "hints": []
+}
